@@ -4,4 +4,4 @@
 - **Radiative Gaussian Splatting for efficient X-ray novel view synthesis** [Cai et al., 2024](https://arxiv.org/abs/2403.04116)
 
 ## Generating Synthetic Medical Image Datasets
-- **Realistic Surgical Image Dataset Generation based on 3D Gaussian Splatting** [Zeng et al., 2024](https://arxiv.org/abs/xxxxxxx)
+- **Realistic Surgical Image Dataset Generation based on 3D Gaussian Splatting** [Zeng et al., 2024](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_48)

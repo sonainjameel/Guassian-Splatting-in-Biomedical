@@ -1,1 +1,1 @@
-# Guassian-Splatting-in-Biomedical
+# Applications of Guassian Splatting

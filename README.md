@@ -14,7 +14,7 @@ Click on any section to browse related research papers with links to their sourc
 ---
 
 ### 📝 Citation
-If you use this repository in your work, consider citing the survey paper (to be added).
+If you use this repository in your work, consider citing the survey paper "(to be added)".
 
 ---
 

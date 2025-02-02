@@ -48,5 +48,5 @@ Stay tuned for exciting updates! 🚀
 
 ---
 
-📌 _Maintained by [Sonain Jamil](https://github.com/sonainjameel) and [Aya Hage Chehade](https://github.com/AyaHageChehade)  
+📌 _Maintained by [Sonain Jamil](https://github.com/sonainjameel) and [Aya Hage Chehade](https://github.com/AyaHageChehade)_
 

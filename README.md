@@ -1,6 +1,6 @@
 # 🌟 3D Gaussian Splatting in Biomedical Imaging  
 
-![Banner](assets/banner.png)  
+![Banner](banner.jpg)  
 <!-- Replace 'assets/banner.png' with the actual path of your uploaded banner -->
 
 📌 _A curated collection of research papers exploring the applications of 3D Gaussian Splatting (3DGS) in biomedical imaging._

@@ -7,7 +7,7 @@
 ---
 
 ## 📌 CT and Tomographic Reconstruction  
-Gaussian Splatting has recently been applied to **Computed Tomography (CT) reconstruction and tomographic imaging**, demonstrating improved volume rendering and reconstruction from sparse views.  
+Gaussian Splatting has recently been applied to **Computed Tomography (CT) reconstruction and tomographic imaging**, demonstrating improved volume rendering and reconstruction from sparse views.
 
 ### 🔬 Key Papers:  
 

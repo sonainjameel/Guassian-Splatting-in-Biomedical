@@ -1,21 +1,37 @@
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
 
 # Site settings
 title: "3D Gaussian Splatting in Biomedical Imaging"
 description: "A curated collection of research papers and resources exploring the applications of 3D Gaussian Splatting (3DGS) in medical imaging."
 baseurl: "" # Leave empty if hosted on GitHub Pages at root
-url: "https://sonainjameel.github.io/Guassian-Splatting-in-Biomedical/"  # Update with actual URL
+url: "https://sonainjameel.github.io/Guassian-Splatting-in-Biomedical/"
+
+# Build settings
+plugins:
+  - jekyll-include-cache
 
 # Navigation structure
-navbar-links:
-  Home: "index.md"
-  Papers:
-    - "Volumetric Imaging": "papers/volumetric_imaging.md"
-    - "Surgical Scene Reconstruction": "papers/surgical_reconstruction.md"
-    - "Medical Image Synthesis": "papers/image_synthesis.md"
-    - "Challenges & Future Directions": "papers/challenges_future.md"
-  Contribute: "contribute.md"
-  About: "about.md"
+navigation:
+  - title: "Home"
+    url: "/index.html"
+  - title: "Papers"
+    children:
+      - title: "Volumetric Imaging"
+        url: "/papers/volumetric_imaging.html"
+      - title: "Surgical Scene Reconstruction"
+        url: "/papers/surgical_reconstruction.html"
+      - title: "Medical Image Synthesis"
+        url: "/papers/image_synthesis.html"
+      - title: "Challenges & Future Directions"
+        url: "/papers/challenges_future.html"
+  - title: "Contribute"
+    url: "/contribute.html"
+  - title: "About"
+    url: "/about.html"
+  - title: "Team"
+    url: "/team.html"
+  - title: "Publications"
+    url: "/publications.html"
 
 # GitHub Repository Details
 github:
@@ -23,3 +39,16 @@ github:
 
 # Markdown settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  footnote_backlink: "&#8617;"
+
+# Minimal Mistakes theme settings
+search: true
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sonainjameel/Guassian-Splatting-in-Biomedical"

@@ -15,25 +15,25 @@ search_enabled: true
 # Navigation links
 nav:
   - title: "Home"
-    url: "/"
+    url: "{{ site.baseurl }}/"
   - title: "Papers"
     children:
       - title: "Volumetric Imaging"
-        url: "/papers/volumetric_imaging"
+        url: "{{ site.baseurl }}/papers/volumetric_imaging"
       - title: "Surgical Scene Reconstruction"
-        url: "/papers/surgical_reconstruction"
+        url: "{{ site.baseurl }}/papers/surgical_reconstruction"
       - title: "Medical Image Synthesis"
-        url: "/papers/image_synthesis"
+        url: "{{ site.baseurl }}/papers/image_synthesis"
       - title: "Challenges & Future Directions"
-        url: "/papers/challenges_future"
+        url: "{{ site.baseurl }}/papers/challenges_future"
   - title: "Contribute"
-    url: "/contribute"
+    url: "{{ site.baseurl }}/contribute"
   - title: "About"
-    url: "/about"
+    url: "{{ site.baseurl }}/about"
   - title: "Team"
-    url: "/team"
+    url: "{{ site.baseurl }}/team"
   - title: "Publications"
-    url: "/publications"
+    url: "{{ site.baseurl }}/publications"
 
 # GitHub Repository Details
 github:

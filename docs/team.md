@@ -7,7 +7,7 @@ This project is maintained by dedicated researchers and contributors passionate 
 - **Sonain Jamil** – _Computational Color and Spectral Imaging Researcher_  
   📄 [GitHub](https://github.com/sonainjameel) | [LinkedIn](https://linkedin.com/in/sonain-jamil-648253135)
 
-- **Aya Hage Chehade** – _AI & Biomedical Imaging Specialist_  
+- **Aya Hage Chehade** – _AI & Biomedical Imaging Researcher_  
   📄 [GitHub](https://github.com/AyaHageChehade) | [LinkedIn](https://linkedin.com/in/aya-hage-chehade-b57861298)
 
 ### 🛠️ Contributors

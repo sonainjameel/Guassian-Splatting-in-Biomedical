@@ -27,7 +27,7 @@ These advancements could **transform medical imaging, diagnostics, and real-time
 ---
 
 ## 🔗 Related Resources  
-- 🔬 **[Main 3DGS in Biomedical Imaging Repository](../README.md)**  
+- 🔬 **[Main 3DGS in Biomedical Imaging Repository](https://github.com/sonainjameel/Guassian-Splatting-in-Biomedical/README.md)**  
 - 📄 **[Volumetric Medical Imaging](volumetric_imaging.md)**  
 - 🏷️ **[Surgical Scene Reconstruction & Endoscopy](surgical_reconstruction.md)**  
 - 🎨 **[Medical Image Synthesis & Visualization](image_synthesis.md)**  

@@ -1,37 +1,39 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: just-the-docs/just-the-docs
 
 # Site settings
 title: "3D Gaussian Splatting in Biomedical Imaging"
 description: "A curated collection of research papers and resources exploring the applications of 3D Gaussian Splatting (3DGS) in medical imaging."
-baseurl: "" # Leave empty if hosted on GitHub Pages at root
+baseurl: "/Guassian-Splatting-in-Biomedical"
 url: "https://sonainjameel.github.io/Guassian-Splatting-in-Biomedical/"
 
-# Build settings
-plugins:
-  - jekyll-include-cache
-
 # Navigation structure
-navigation:
+nav_order: 1
+
+# Enable search
+search_enabled: true
+
+# Navigation links
+nav:
   - title: "Home"
-    url: "/index.html"
+    url: "/"
   - title: "Papers"
     children:
       - title: "Volumetric Imaging"
-        url: "/papers/volumetric_imaging.html"
+        url: "/papers/volumetric_imaging"
       - title: "Surgical Scene Reconstruction"
-        url: "/papers/surgical_reconstruction.html"
+        url: "/papers/surgical_reconstruction"
       - title: "Medical Image Synthesis"
-        url: "/papers/image_synthesis.html"
+        url: "/papers/image_synthesis"
       - title: "Challenges & Future Directions"
-        url: "/papers/challenges_future.html"
+        url: "/papers/challenges_future"
   - title: "Contribute"
-    url: "/contribute.html"
+    url: "/contribute"
   - title: "About"
-    url: "/about.html"
+    url: "/about"
   - title: "Team"
-    url: "/team.html"
+    url: "/team"
   - title: "Publications"
-    url: "/publications.html"
+    url: "/publications"
 
 # GitHub Repository Details
 github:
@@ -45,8 +47,7 @@ kramdown:
   hard_wrap: false
   footnote_backlink: "&#8617;"
 
-# Minimal Mistakes theme settings
-search: true
+# Footer links
 footer:
   links:
     - label: "GitHub"

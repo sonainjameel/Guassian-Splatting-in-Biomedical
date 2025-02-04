@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 
 # Site settings
-title: "3DGS in Biomedical Imaging"
+title: "3D Gaussian Splatting in Biomedical Imaging"
 description: "A curated collection of research papers and resources exploring the applications of 3D Gaussian Splatting (3DGS) in medical imaging."
 baseurl: "/Guassian-Splatting-in-Biomedical"
 url: "https://sonainjameel.github.io/Guassian-Splatting-in-Biomedical/"

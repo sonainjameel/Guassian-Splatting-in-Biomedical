@@ -38,7 +38,7 @@ These advancements support **medical imaging research, AI-driven diagnosis, and 
 ---
 
 ## 🔗 Related Resources  
-- 🔬 **[Main 3DGS in Biomedical Imaging Repository](../README.md)**  
+- 🔬 **[Main 3DGS in Biomedical Imaging Repository](https://github.com/sonainjameel/Guassian-Splatting-in-Biomedical/README.md)**  
 - 📄 **[Volumetric Medical Imaging](volumetric_imaging.md)**  
 - 🏷️ **[Surgical Scene Reconstruction & Endoscopy](surgical_reconstruction.md)**  
 - 🏷️ **[Challenges & Future Directions](challenges_future.md)**  

@@ -48,7 +48,8 @@ These techniques could significantly enhance **surgical navigation, robotic-assi
 
 ## 🔗 Related Resources  
 - 🔬 **[Main 3DGS in Biomedical Imaging Repository](../README.md)**  
-- 📄 **[Volumetric Medical Imaging](volumetric_imaging.md)**  
+- 📄 **[Volumetric Medical Imaging](volumetric_imaging.md)**
+- 🖼️ **[Medical Image Synthesis & Visualization](papers/image_synthesis.md)**  
 - 🏷️ **[Challenges & Future Directions](challenges_future.md)**  
 
 ---

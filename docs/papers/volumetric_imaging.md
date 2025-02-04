@@ -49,7 +49,7 @@ The **future of medical imaging** could see **3DGS-powered AI models** improving
 ---
 
 ## 🔗 Related Resources  
-- 🔬 **[Main 3DGS in Biomedical Imaging Repository](../README.md)**  
+- 🔬 **[Main 3DGS in Biomedical Imaging Repository](https://github.com/sonainjameel/Guassian-Splatting-in-Biomedical/README.md)**  
 - 📄 **[Surgical Scene Reconstruction & Endoscopy](surgical_reconstruction.md)**
 - 🖼️ **[Medical Image Synthesis & Visualization](image_synthesis.md)**
 - 🏷️ **[Challenges & Future Directions](challenges_future.md)**  
